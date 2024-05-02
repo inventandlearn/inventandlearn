@@ -9,7 +9,7 @@ Embarking on my journey as a Junior to Mid-tier DevOps Engineer, I bring a blend
 * 🌍  I'm based in Union City, New Jersey
 * 🖥️  See my portfolio at [Daniel's Introduction](http://danielalteon.com)
 * ✉️  You can contact me at [dalteon@gmail.com](mailto:dalteon@gmail.com)
-* 🧠  I'm learning Kubernetes, Terraform, AWS, Microservice Architectures, GitLab, etc.
+* 🧠  I'm learning Kubernetes, Terraform, AWS, Microsoft Azure, Microservice Architectures, GitLab, Solana Decentralized App Development, etc.
 * 🤝  I'm open to collaborating on anything and everything involving cloud and CI/CD pipelines. I'm also interested in developing Blockchain applications that have real-world use cases.
 
 ### Skills
