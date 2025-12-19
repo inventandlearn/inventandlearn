@@ -4,13 +4,28 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 DevOps Engineer | Cloud Engineer | Backend Developer
 ----------------------------------------------------
 
-Embarking on my journey as a Junior to Mid-tier DevOps Engineer, I bring a blend of passion, curiosity, and a hunger for innovation to the table. With each challenge, I eagerly dive into the world of automation, cloud infrastructure, and continuous integration/deployment, fueling my quest to streamline processes and drive transformative change. As I navigate through this dynamic field, I am committed to mastering new technologies, collaborating with diverse teams, and crafting solutions that propel organizations to new heights of success. Join me as I embark on this exhilarating adventure at the intersection of development and operations!
+I bridge the gap between application code and production infrastructure. Currently, I am the Lead Engineer for **Neurobytelabs**, where I architect **Arclium**—a hybrid-cloud RAG (Retrieval-Augmented Generation) platform integrating AWS compute with Google Gemini AI.
 
-* 🌍  I'm based in Union City, New Jersey
-* 🖥️  See my portfolio at [Daniel's Introduction](http://danielalteon.com)
-* ✉️  You can contact me at [dalteon@gmail.com](mailto:dalteon@gmail.com)
-* 🧠  I'm learning Kubernetes, Terraform, AWS, Microsoft Azure, Microservice Architectures, GitLab, Solana Decentralized App Development, etc.
-* 🤝  I'm open to collaborating on anything and everything involving cloud and CI/CD pipelines. I'm also interested in developing Blockchain applications that have real-world use cases.
+I focus on building "Day-2 Ready" environments: reproducible, secure, and self-healing.
+
+### 🛠️ Technical Stack
+*   **Cloud:** AWS (VPC, EKS, EC2, IAM) & GCP (Vertex AI, OAuth)
+*   **Infrastructure as Code:** Terraform, Docker, Helm
+*   **CI/CD:** GitLab CI/CD, GitHub Actions
+*   **Scripting:** Python (Boto3/FastAPI), Bash
+*   **Observability:** Prometheus, Grafana, CloudWatch
+
+### 🔭 Current Project
+
+A Hybrid-Cloud RAG pipeline for author marketing automation.
+*   **Architecture:** Next.js frontend (Vercel) + Python AI Workers (AWS EKS).
+*   **Infrastructure:** Fully managed via Terraform modules.
+*   **AI Ops:** Orchestrates Google Gemini and Search APIs via Kubernetes.
+
+### 📫 Connect with me
+*   **Location:** Ocala, FL (Open to Remote & Hybrid)
+*   **LinkedIn:** linkedin.com/in/invent2learn
+*   **Email:** dalteon@gmail.com
 
 ### Skills
 
