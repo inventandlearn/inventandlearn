@@ -1,26 +1,23 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Alteon
 =====================================================================================================================================
 
-DevOps Engineer | Cloud Engineer | Backend Developer
+Cloud Infrastructure Engineer | DevOps Engineer | Cloud Support Engineer | Backend Developer | Python | SQL |
 ----------------------------------------------------
 
-I bridge the gap between application code and production infrastructure. Currently, I am the Lead Engineer for **Neurobytelabs**, where I architect **Arclium**—a hybrid-cloud RAG (Retrieval-Augmented Generation) platform integrating AWS compute with Google Gemini AI.
+Cloud Infrastructure Engineer with a focus on automation, security, and scalability. I specialize in building "Day-2 Ready" environments using AWS, Terraform, and Kubernetes.
 
-I focus on building "Day-2 Ready" environments: reproducible, secure, and self-healing.
+Currently, I serve as a Cloud Infrastructure Engineer at Neurobytelabs, leading the infrastructure modernization for Arclium. My primary focus is re-architecting the platform from a low-code prototype into a production-grade, hybrid-cloud environment hosted on AWS EKS. I designed a split-stack architecture that leverages Supabase for real-time interactions while offloading compute-intensive AI workloads to Kubernetes, managed entirely via Infrastructure as Code (IaC).
+
+Prior to this, I operated as an Independent Cloud Engineer, focusing on bridging the gap between development and operations. I simulated enterprise scenarios—architecting secure VPCs, automating Linux server maintenance with Python/Bash, and modernizing legacy deployment workflows to master production standards.
+
+I am a builder who loves solving hard infrastructure problems. I am currently looking for Cloud Support, Infrastructure, or DevOps roles where I can apply my skills in automation and troubleshooting to help a team scale.
 
 ### 🛠️ Technical Stack
-*   **Cloud:** AWS (VPC, EKS, EC2, IAM) & GCP (Vertex AI, OAuth)
-*   **Infrastructure as Code:** Terraform, Docker, Helm
-*   **CI/CD:** GitLab CI/CD, GitHub Actions
-*   **Scripting:** Python (Boto3/FastAPI), Bash
-*   **Observability:** Prometheus, Grafana, CloudWatch
-
-### 🔭 Current Project
-
-A Hybrid-Cloud RAG pipeline for author marketing automation.
-*   **Architecture:** Next.js frontend (Vercel) + Python AI Workers (AWS EKS).
-*   **Infrastructure:** Fully managed via Terraform modules.
-*   **AI Ops:** Orchestrates Google Gemini and Search APIs via Kubernetes.
+☁️ Cloud: AWS (VPC, EKS, EC2, IAM) & Hybrid Cloud Strategies
+🛠 IaC: Terraform (State Management, Modules) & Docker
+🚀 CI/CD: GitLab CI & GitHub Actions
+🔒 Security: OAuth 2.0, AWS WAF, Kubernetes Secrets
+🤖 AI Ops: AI Workload Orchestration & Scaling
 
 ### 📫 Connect with me
 *   **Location:** Ocala, FL (Open to Remote & Hybrid)
