@@ -13,11 +13,11 @@ Prior to this, I operated as an Independent Cloud Engineer, focusing on bridging
 I am a builder who loves solving hard infrastructure problems. I am currently looking for Cloud Support, Infrastructure, or DevOps roles where I can apply my skills in automation and troubleshooting to help a team scale.
 
 ### 🛠️ Technical Stack
-☁️ Cloud: AWS (VPC, EKS, EC2, IAM) & Hybrid Cloud Strategies
-🛠 IaC: Terraform (State Management, Modules) & Docker
-🚀 CI/CD: GitLab CI & GitHub Actions
-🔒 Security: OAuth 2.0, AWS WAF, Kubernetes Secrets
-🤖 AI Ops: AI Workload Orchestration & Scaling
+* ☁️ Cloud: AWS (VPC, EKS, EC2, IAM) & Hybrid Cloud Strategies
+* 🛠 IaC: Terraform (State Management, Modules) & Docker
+* 🚀 CI/CD: GitLab CI & GitHub Actions
+* 🔒 Security: OAuth 2.0, AWS WAF, Kubernetes Secrets
+* 🤖 AI Ops: AI Workload Orchestration & Scaling
 
 ### 📫 Connect with me
 *   **Location:** Ocala, FL (Open to Remote & Hybrid)
