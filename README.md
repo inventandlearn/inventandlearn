@@ -4,13 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cloud Infrastructure Engineer | DevOps Engineer | Cloud Support Engineer | Backend Developer 
 ----------------------------------------------------
 
-Cloud Infrastructure Engineer with a focus on automation, security, and scalability. I specialize in building "Day-2 Ready" environments using AWS, Terraform, and Kubernetes.
+Cloud Infrastructure Engineer with a focus on automation, security, and scalability. I specialize in building "Day-2 Ready" environments, enforcing strict Infrastructure as Code (IaC) compliance, and remediating configuration drift across AWS and GCP.
 
-Currently, I serve as a Cloud Infrastructure Engineer at Neurobytelabs, leading the infrastructure modernization for Arclium. My primary focus is re-architecting the platform from a low-code prototype into a production-grade, hybrid-cloud environment hosted on AWS EKS. I designed a split-stack architecture that leverages Supabase for real-time interactions while offloading compute-intensive AI workloads to Kubernetes, managed entirely via Infrastructure as Code (IaC).
+Currently, I serve as a Cloud Infrastructure Engineer at Neurobytelabs, driving enterprise cloud migrations and architecture maturity initiatives. Recently, I spearheaded a comprehensive infrastructure audit that identified and remediated significant undocumented "shadow" (ClickOps) rules, increasing IaC coverage by over 32% and bringing massive-scale firewall architectures under strict Terraform control, all while aligning with SOC 2, CJIS, and NIST frameworks.
 
-Prior to this, I operated as an Independent Cloud Engineer, focusing on bridging the gap between development and operations. I simulated enterprise scenarios—architecting secure VPCs, automating Linux server maintenance with Python/Bash, and modernizing legacy deployment workflows to master production standards.
-
-I am a builder who loves solving hard infrastructure problems. I am currently looking for Cloud Support, Infrastructure, or DevOps roles where I can apply my skills in automation and troubleshooting to help a team scale.
+Prior to this, I operated as a Freelance Cloud Engineer, focusing on bridging the gap between development and operations. I simulated enterprise scenarios—architecting secure VPCs, automating Linux server maintenance with Python/Bash, and modernizing legacy deployment workflows to master production standards.
 
 ### 🛠️ Technical Stack
 * ☁️ Cloud: AWS (VPC, EKS, EC2, IAM) & Hybrid Cloud Strategies
